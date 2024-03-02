@@ -5,7 +5,7 @@ I was studying probability in a coffee shop and I overheard a fascinating conver
 This proved to be very difficult because a sequence of letter grades from a school program can be sampled from the below table with replacement. This means there are 2,537,941,990,336 possible combinations. A population I didn't have the processing power and time to brute force.
 
 
-## Letter Grades and Weights
+## US Letter Grades and Weights
 | Letter Grade | GPA Weight |
 | ----------- | ----------- |
 | A | 4.0 |
