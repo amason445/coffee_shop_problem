@@ -5,3 +5,5 @@ For 4 degrees of freedom, the number of viable outcomes is: 165 over 625 possibl
 For 5 degrees of freedom, the number of viable outcomes is: 685 over 3125 possible combinations. Therefore, you have a percent chance of: 21.92
 For 6 degrees of freedom, the number of viable outcomes is: 2197 over 15625 possible combinations. Therefore, you have a percent chance of: 14.0608
 For 7 degrees of freedom, the number of viable outcomes is: 5950 over 78125 possible combinations. Therefore, you have a percent chance of: 7.616
+For 8 degrees of freedom, the number of viable outcomes is: 14275 over 390625 possible combinations. Therefore, you have a percent chance of: 3.6544
+For 9 degrees of freedom, the number of viable outcomes is: 31240 over 1953125 possible combinations. Therefore, you have a percent chance of: 1.59949
