@@ -11,7 +11,7 @@ This was difficult because there are a vast number of possible grade sequences t
 To overcome this difficulty, I decided to run these probabilities assuming the student achieved all As in their courses until a cut off point at n classes. For example, if the cut off point was at 2 classes, this would imply that the student has achieved 22 A grades while class 23 and 24 are left in play. This would simplify the computation to testing for a GPA between 3.6 and 3.7 between 25 total program outcomes.
 
 ## Results
-In absolute odds, found that a GPA between 3.6 and 3.7 is most likely to occur when 4 classes are at play. However, it seems significantly less likely to go from a 3.9 to a 3.67 and I'm thinking this more likely to be possible at 2 degrees of freedom. Given that they had a 3.9 before their final exam, and one class swung them to 3.67, I think this likely happened during their last two classes and had a 4% chance of occuring. It seems this person was very unlucky.
+In absolute odds, I found that a GPA between 3.6 and 3.7 is most likely to occur when 4 classes are at play. However, it seems significantly less likely to go from a 3.9 to a 3.67 and I'm thinking this more likely to be possible at 2 degrees of freedom. Given that they had a 3.9 before their final exam, and one class swung them to 3.67, I think this likely happened during their last two classes and this had a 4% chance of occuring. It seems this person was very unlucky.
 
 Below are the results from this analysis:
 | Degrees of Freedom | Viable Outcomes | Possible Combinations | % Chance |
