@@ -23,6 +23,8 @@ Below are the results from this analysis:
 | 5 | 685 | 3125 | 21.92% |
 | 6 | 2197 | 15625 | 14.06% |
 | 7 | 5950 | 78125 | 7.62% |
+| 8 | 14275 | 390625| 3.65% |
+| 9 | 31240 | 1953125| 1.60% |
 
 ## US Letter Grades and Weights
 | Letter Grade | GPA Weight |
