@@ -34,3 +34,5 @@ Below are the results from this analysis:
 | C | 2.0 |
 | D | 1.0 |
 | F | 0.0 |
+
+- [US Letter Grades](https://en.wikipedia.org/wiki/Academic_grading_in_the_United_States)
