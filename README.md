@@ -4,7 +4,7 @@
 
 While studying probability theory in a coffee shop, I overheard a peculiar conversation. A student mentioned graduating from a degree program with a US GPA that dropped from 3.9 to around 3.67 after failing a final exam. At first, this seemed absurd. The described drop seemed exaggerated because they went from a perfect GPA to an A/B average. I wanted to verify if this was possible.
 
-This was difficult because there are a vast number of possible grade sequences to run the probability for. For example, drawing without replacement from the standard US letter grade system, with 24 courses, there are 2,537,941,990,336 possible grade sequences. Directly computing the probability for each sequence wasn't possible due to processing power and time constraints. Additionally, I had to test against the final GPA and not the raw sequence so there was a transformation in the middle of the calculation.
+This was difficult because there are a vast number of possible grade sequences to run the probability for. For example, drawing without replacement from the standard US letter grade system, with 24 courses, there are 59,604,644,775,390,625 possible grade sequences. Directly computing the probability for each sequence wasn't possible due to processing power and time constraints. Additionally, I had to test against the final GPA and not the raw sequence so there was a transformation in the middle of the calculation.
 
 ## Approach
 
